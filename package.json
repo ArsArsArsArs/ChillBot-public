@@ -1,0 +1,22 @@
+{
+  "name": "chillbot",
+  "version": "2.7.4a",
+  "description": "any",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "author": "Mirdukkkkk",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.6.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "discord.js": "^14.0.3",
+    "mongodb": "^4.1.0",
+    "pagination.djs": "^4.0.1",
+    "path": "^0.12.7"
+  }
+}
